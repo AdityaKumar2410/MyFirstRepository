@@ -1,5 +1,4 @@
 # MyFirstRepository
 This is my first repository.This is just to try out new things.
-/br
+<p>Author - Aditya Kumar</p>
 
-Author - Aditya Kumar
